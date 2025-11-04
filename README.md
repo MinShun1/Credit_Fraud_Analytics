@@ -2,7 +2,6 @@
 
 This repository contains a **CatBoost-based fraud detection project** built on the NeurIPS 2022 BAF dataset (<1% fraud samples). The project benchmarks multiple classifiers, handles class imbalance, and implements a cost-sensitive decision framework.
 
----
 ## Project Overview
 - **Dataset:** NeurIPS 2022 BAF dataset (<1% fraud)
 - **Task:** Binary fraud detection
@@ -15,7 +14,6 @@ This repository contains a **CatBoost-based fraud detection project** built on t
 - **Performance:**
   - ROC-AUC: **0.97**
   - Fraud recall: **0.96** on test set
----
 
 ## Repository Structure
 
