@@ -1,4 +1,4 @@
-# Credit_Fraud_Analytics
+# credit-fraud-analytics
 
 This repository contains a **CatBoost-based fraud detection project** built on the NeurIPS 2022 BAF dataset (<1% fraud samples). The project benchmarks multiple classifiers, handles class imbalance, and implements a cost-sensitive decision framework.
 
